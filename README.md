@@ -1,9 +1,13 @@
-- 👋 Hi, I’m @xtephenz
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning Python
-- 📫 How to reach me: xtephenz@gmail.com
+# Hi, I'm Stephen 👋
 
-<!---
-xtephenz/xtephenz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🚀 Product & Project Lead at [Klar]
+- 🤖 Building agentic AI platforms for data-driven marketing operations
+- 📍 Jakarta, Indonesia
+- 📫 How to reach me: stephen@klar.id
+
+## What I'm working on
+Leading the Klar-Lixus PoC — an AI query routing agent that saves
+marketing agency account managers 3+ hours/day on data queries.
+
+## Background
+Product strategy | Agentic AI | MarTech | Revenue Efficiency
