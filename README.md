@@ -3,7 +3,7 @@
 - 🚀 Product & Project Lead at [Klar]
 - 🤖 Building agentic AI platforms for data-driven marketing operations
 - 📍 Jakarta, Indonesia
-- 📫 How to reach me: stephen@klar.id
+- 📫 How to reach me: stephenhau.lzh@gmail.com
 
 ## What I'm working on
 Leading the Klar-Lixus PoC — an AI query routing agent that saves
